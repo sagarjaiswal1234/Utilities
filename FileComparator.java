@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 class FileComparator {
 
-    public static final String folder = "/Users/jaiswals/Library/Preferences/IntelliJIdea2019.1/scratches/";
+    public static final String folder = "folderPath";
     private static final String placeHolderForIgnorableWhiteSpaces = ",";
 
     private static String thingsToIgnore = "\\s+";//whitespace
